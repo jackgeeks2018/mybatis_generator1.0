@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="my-commit">
+    <output-path>$PROJECT_DIR$/classes/artifacts/my_commit</output-path>
+    <root id="archive" name="my-commit.jar">
+      <element id="module-output" name="mybatis_generator" />
+    </root>
+  </artifact>
+</component>
